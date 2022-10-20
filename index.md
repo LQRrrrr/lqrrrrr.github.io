@@ -9,7 +9,10 @@ profile_picture:
   Welcome! Here is Qiuran's personal website. My name is Qiuran Lyu (吕秋燃 in Chinese). I was born in Chengdu, Sichuan, P. R. China on November 1st, 2001. From Sep 2016 to July 2019, I studied at<a href="http://www.cdqz.net"> No.7 high school</a>. I entered to <a href="https://www.ruc.edu.cn"> Renmin University of China(RUC) </a> in 2019, majoring in <a href="http://stat.ruc.edu.cn">Statistics</a> (RUC ranks top3 in this subject among all universities in China).  I am expected to graduate on July 2023. Now I am applying for Statistics/Biostatistics Ph.D. programs in United States.
 
 </p>
-
+<p>
+  My research interests lie in statistical genetics, causal inference, and mediation analysis. I decided to apply to Ph.D. programs last year when I visited <a href="https://www.hku.hk/l">the univerisity of Hong Kong</a> and I am extremely fortunate to be guided by Prof.Jingshen Wang at UCB from Feb 2022 and did my summer research in <a href="http://jsb.ucla.edu/people/jingyi-jessica-li">JSB group</a> at UCLA mentored by postdoc Xinzhou Ge and Prof.Jingyi Jessica Li. 
+  </p>
+  Due to some personal experiences, I want to make contributions in public health filed regarding to diseases.
 <p>
   You can see and download my Curriculum Vitae through <a href="https://github.com/eliottvincent/bay">Qiuran's CV</a>.
 </p>
