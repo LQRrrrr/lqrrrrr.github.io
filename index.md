@@ -11,6 +11,6 @@ profile_picture:
 </p>
 
 <p>
-  You can see and download my Curriculum Vitae on <a href="https://github.com/eliottvincent/bay">Qiuran's CV</a>.
+  You can see and download my Curriculum Vitae through <a href="https://github.com/eliottvincent/bay">Qiuran's CV</a>.
 </p>
 
