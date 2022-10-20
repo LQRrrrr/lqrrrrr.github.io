@@ -10,7 +10,7 @@ profile_picture:
 
 </p>
 <p>
-  My research interests lie in statistical genetics, causal inference, and mediation analysis. I decided to apply to Ph.D. programs last year when I visited <a href="https://www.hku.hk/l">the univerisity of Hong Kong</a> and I am extremely fortunate to be guided by Prof.Jingshen Wang at UCB from Feb 2022 and did my summer research in <a href="http://jsb.ucla.edu/people/jingyi-jessica-li">JSB group</a> at UCLA mentored by postdoc Xinzhou Ge and Prof.Jingyi Jessica Li. 
+  My research interests lie in statistical genetics, causal inference, and mediation analysis. I decided to apply to Ph.D. programs last year when I visited <a href="https://www.hku.hk/l">the univerisity of Hong Kong</a> and I am extremely fortunate to be guided by Prof.Jingshen Wang at UCB from Feb 2022 and did my summer research in <a href="http://jsb.ucla.edu/people/jingyi-jessica-li">JSB group</a> at UCLA mentored by postdoc Dr.Xinzhou Ge and Prof.Jingyi Jessica Li. 
   </p>
   Due to some personal experiences, I want to make contributions in public health filed regarding to diseases.
 <p>
