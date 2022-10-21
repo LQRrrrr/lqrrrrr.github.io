@@ -10,9 +10,9 @@ profile_picture:
 
 </p>
 <p>
-  My research interests lie in statistical genetics, causal inference, and mediation analysis. I decided to apply to Ph.D. programs last year when I visited <a href="https://www.hku.hk/l">the univerisity of Hong Kong</a> and I am extremely fortunate to be guided by Prof.Jingshen Wang at UCB from Feb 2022 and did my summer research in <a href="http://jsb.ucla.edu/people/jingyi-jessica-li">JSB group</a> at UCLA mentored by postdoc Dr.Xinzhou Ge and Prof.Jingyi Jessica Li. See work for what I have done in 2022.
+  My research interests lie in statistical genetics, causal inference, and mediation analysis. I decided to apply to Ph.D. programs last year when I visited <a href="https://www.hku.hk/l">the univerisity of Hong Kong</a> and I am extremely fortunate to be guided by <a href="https://sites.google.com/berkeley.edu/jingshenwang/"> Prof.Jingshen Wang</a> at UC Berkeley from Feb 2022 and did my summer research in <a href="http://jsb.ucla.edu/people/jingyi-jessica-li">JSB group</a> at UC Los Angeles mentored by postdoc Dr.Xinzhou Ge and Prof.Jingyi Jessica Li. I am also very lucky to be offered the chance to study at <a href="https://sites.harvard.edu/junliu/">Prof.Jun S Liu's</a> lab at Harvard. See work for what I have done in 2022. 
   </p>
-  Due to some personal experiences, I want to make contributions in public health filed regarding to various diseases.
+  Due to some personal experiences, I want to make contributions in public health field regarding to various diseases.
 <p>
   You can see and download my Curriculum Vitae through <a href="https://github.com/eliottvincent/bay">Qiuran's CV</a>.
 </p>
