@@ -16,4 +16,6 @@ profile_picture:
 <p>
   You can see and download my Curriculum Vitae through <a href="https://drive.google.com/file/d/1grcOVR7o-U-Hk1vfD_ABPKcTDvkSfOr8/view?usp=sharing">Qiuran's CV</a>.
 </p>
-
+<p>
+  If interested, please contact me thorugh email or wechat. 
+</p>
