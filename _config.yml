@@ -18,6 +18,7 @@ header:
       slug: /
     - name: Work
     - name: Blog
+    - name: Timeline
 
 footer:
   show_powered_by: false
