@@ -14,6 +14,6 @@ profile_picture:
   </p>
   Due to some personal experiences, I want to make contributions in public health field regarding to various diseases.
 <p>
-  You can see and download my Curriculum Vitae through <a href="https://github.com/eliottvincent/bay">Qiuran's CV</a>.
+  You can see and download my Curriculum Vitae through <a href="https://drive.google.com/file/d/1CtP1OGIhvSnmuxfCEnBgQFJ38a2k5kCL/view?usp=sharing">Qiuran's CV</a>.
 </p>
 
