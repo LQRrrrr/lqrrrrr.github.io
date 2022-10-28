@@ -13,7 +13,7 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: We empirically demonstrated the winner’s curse for MR estimators caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators.
-  - title: Benchmark of different isoform quantification methods
+  - title: Benchmark of different isoform quantification methods + FastQTL
     image:
       src: /assets/img/work/sand.png
       alt: sand
@@ -26,6 +26,6 @@ items:
 ---
 
 
-
+If interested, please refer to my CV https://drive.google.com/file/d/1bpWs8usqn6R5FwRyaXdnZH7SM0rfpP3T/view or contact me for more details.
 <br />
 <br />
