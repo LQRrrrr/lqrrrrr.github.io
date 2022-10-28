@@ -26,6 +26,6 @@ items:
 ---
 
 
-If interested, please refer to my CV https://drive.google.com/file/d/1bpWs8usqn6R5FwRyaXdnZH7SM0rfpP3T/view or contact me for more details.
+If interested, please refer to <a href="https://drive.google.com/file/d/1bpWs8usqn6R5FwRyaXdnZH7SM0rfpP3T/view?usp=sharing">Qiuran's CV</a> or contact me for more details.
 <br />
 <br />
