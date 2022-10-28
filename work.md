@@ -20,7 +20,7 @@ items:
     description: Performance of rsem, kallisto, cufflinks, salmon on simulated dataset were compared and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate.
   - title: GMS training framework and WMMLP
     image:
-      src: /assets/img/work/sad.jpeg
+      src: /assets/img/work/sad.png
       alt: sand
     description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context.
 ---
