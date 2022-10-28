@@ -27,8 +27,7 @@ rsem has the worst performance in terms of power and false discovery rate.
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators
-and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. I reviewed literatures related to neural network theory, neural control variable for variance reduction and function approximation and empirically demonstrated the low variance of estimators under the proposed WMMLP. Also, we implemented, tested, and documented different training and testing results on CIFAR10 and simulated dataset.
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. I reviewed literatures related to neural network theory, neural control variable for variance reduction and function approximation and empirically demonstrated the low variance of estimators under the proposed WMMLP. Also, we implemented, tested, and documented different training and testing results on CIFAR10 and simulated dataset.
 ---
 
 
