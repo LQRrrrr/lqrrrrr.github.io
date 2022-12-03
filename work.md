@@ -12,17 +12,17 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators.
+    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators. 
   - title: Benchmark of different isoform quantification methods + FastQTL
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate.
+    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See slides.
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context.
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See final summer research report.  
 ---
 
 
