@@ -17,12 +17,12 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See  <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing">slides</a>.
+    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See  <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides</a>.
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See  <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing">final summer research report</a>.  
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See  <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.  
 ---
 
 
