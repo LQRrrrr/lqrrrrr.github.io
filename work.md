@@ -7,12 +7,12 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: We used structural equation to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and rao-blackwellization to eliminate the winner’s curse.
+    description: We used structural equation to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and rao-blackwellization to eliminate the winner’s curse. (working on)
   - title: Mendelian Randomization with Summary Data
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators.
+    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators. (preparing manuscript)
   - title: Benchmark of different isoform quantification methods + FastQTL
     image:
       src: /assets/img/work/water.png
