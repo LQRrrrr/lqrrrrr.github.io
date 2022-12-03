@@ -12,20 +12,20 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators. 
+    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators.
   - title: Benchmark of different isoform quantification methods + FastQTL
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See slides.
+    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See  <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing">slides</a>.
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See final summer research report.  
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See  <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing">final summer research report</a>.  
 ---
 
 
-If interested, please refer to <a href="https://drive.google.com/file/d/1bpWs8usqn6R5FwRyaXdnZH7SM0rfpP3T/view?usp=sharing">Qiuran's CV</a> or contact me for more details.
+If interested, please refer to <a href="https://drive.google.com/file/d/1LpB8VqoGVCvEJR2wZQ-7dJLx5LAGHRQK/view?usp=sharing">Qiuran's CV</a> or contact me for more details.
 <br />
 <br />
