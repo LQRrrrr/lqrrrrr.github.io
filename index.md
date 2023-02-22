@@ -15,7 +15,7 @@ profile_picture:
 </p>
   Due to some personal experiences, I want to make contributions in public health field regarding various diseases. This is really a long way to go. Just be patient and motivated.
   
-<p>
+</p>
   You can see and download my Curriculum Vitae through <a href="https://drive.google.com/file/d/1xImYx9ljpaMWl9bEQZZYmt1qKhgmW40H/view?usp=sharing"> Qiuran's CV </a> (updated on Jan, 2023).
 </p>
 <p> 
