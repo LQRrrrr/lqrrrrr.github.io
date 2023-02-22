@@ -13,7 +13,7 @@ profile_picture:
   My research interests lie in statistical genomics, causal inference, mediation analysis, and computational biology. I am also interested in applying machine learning to financial data. 2022 is a special year for me. I am extremely fortunate to meet kind and nice advisors and many good friends who are also applying to Statistics/Biostatistics/Computer Science/Math/Computational Biology PhD programs in the United States. All of them give me support mentally and physically. See work for what I have done in 2022.
 
 </p>
-  Due to some personal experiences, I want to make contributions in public health field regarding various diseases. This is really a long way to go. Just be patient and motivated.
+  Due to some personal experiences, I want to make contributions in public health field regarding various diseases.  If interested in my experiences, just see the blog in this website. This is really a long way to go. Just be patient and motivated.
   
 </p>
   You can see and download my Curriculum Vitae through <a href="https://drive.google.com/file/d/1xImYx9ljpaMWl9bEQZZYmt1qKhgmW40H/view?usp=sharing"> Qiuran's CV </a> (updated on Jan, 2023).
