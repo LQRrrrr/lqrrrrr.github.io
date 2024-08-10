@@ -24,8 +24,8 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: ccccyyyylqr@gmail.com
-      link: mailto:ccccyyyylqr@gmail.com
+      value: qiuran_lyu@berkeley.edu
+      link: qiuran_lyu@berkeley.edu
     - name: WeChat
       value: LQRweixin1101
       link: "#"
@@ -34,7 +34,7 @@ footer:
       link: https://steamcommunity.com/profiles/76561198292446299/
       username: "@larisiji"
     - name: LinkedIn
-      link: https://www.linkedin.com/in/秋燃-吕-492a90207/
+      link: https://www.linkedin.com/in/qiuran-lyu-492a90207/
     - name: GitHub
       link: http://github.com/LQRrrrr
 
