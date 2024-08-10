@@ -25,7 +25,7 @@ footer:
   contact:
     - name: Email
       value: qiuran_lyu@berkeley.edu
-      link: qiuran_lyu@berkeley.edu
+      link: mailto:qiuran_lyu@berkeley.edu
     - name: WeChat
       value: LQRweixin1101
       link: "#"
