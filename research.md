@@ -3,21 +3,27 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: Causal Mediation Analysis with Mendelian Randomization and Summary Data
+ - title:  Fine-tuning LLM for Alzheimer’s Disease Diagnosis and Progression Prediction
+    image:
+      src: /assets/img/work/sand.png
+      alt: water
+    description:  We investigated different serialized ways (e.g. Markdown, plain text, feature-wise, and visit-wise) for longitudinal tabular data from ADNI and HABS-HD as LLM inputs and finetuned Llama 3 and Llama 3.1 tailored to Alzheimer’s disease outcomes prediction. We are working on developing a statistical metric to construct an $\alpha$-\level confidence set to characterize the variable importance under the LLM context.
+
+  - title: Mediation Analysis with Mendelian Randomization and Efficient Multiple GWAS Integration
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: We used structural equation to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and rao-blackwellization to eliminate the winner’s curse. (working on)
-  - title: Mendelian Randomization with Summary Data
+    description: We used structural equations to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and Rao-blackwellization to eliminate the **measurement error bias**, **the winner's curse**, **the loser's curse**, and **the imperfect IV selection issue**. See <a href="https://arxiv.org/abs/2312.10563"> preprint </a>, links to <a href="https://github.com/LQRrrrr/MAGIC"> code </a> and <a href="https://github.com/LQRrrrr/MR.Rerand"> package </a>.
+  - title: On the Theoretical Investigation of Mediation Analysis with Mendelian Randomization and Summary Data
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We empirically demonstrated the winner’s curse caused by LD clumping. We also empirically demonstrated rerandomization and rao-blackwellization can reduce bias for thirteen popular Mendelian Randomization estimators. (preparing manuscript)
-  - title: Benchmark of different isoform quantification methods + FastQTL
+    description: We provide rigorous statistical analysis of existing two popular frameworks for conducting mediation analysis with Mendelian Randomization. See <a href="https://drive.google.com/file/d/1kk7PRwMGYdazYJ7uE_MpJzFosRn3mWxi/view"> preprint </a>.
+  - title: Benchmark of different QTL pipelines (including isoform-QTL, eQTL, and splicing-QTL)
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared performance of rsem, kallisto, cufflinks, salmon + FastQTL on simulated dataset and we empirically demonstrated rsem has the worst performance in terms of power and false discovery rate. See  <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides</a>.
+    description: We compared the performance of RSEM, Kallisto, Cufflinks, Salmon + FastQTL, eQTL, and Leafcutter on the simulated dataset. We empirically demonstrated isoform-QTL pipelines outperform all others. Among all isoform-QTL pipelines, Cufflinks has the best performance in terms of power and false discovery rate. See  <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides</a> (preparing Manuscript).
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
