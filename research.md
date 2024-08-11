@@ -19,19 +19,19 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We provide rigorous statistical analysis of existing two popular frameworks for conducting mediation analysis with Mendelian Randomization. See <a href="https://drive.google.com/file/d/1kk7PRwMGYdazYJ7uE_MpJzFosRn3mWxi/view">preprint</a>.
+    description: We provide rigorous statistical analysis of existing two popular frameworks for conducting mediation analysis with Mendelian Randomization. See <a href="https://drive.google.com/file/d/1kk7PRwMGYdazYJ7uE_MpJzFosRn3mWxi/view"> preprint </a>.
 
   - title: Benchmark of different QTL pipelines (including isoform-QTL, eQTL, and splicing-QTL)
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared the performance of RSEM, Kallisto, Cufflinks, Salmon + FastQTL, eQTL, and Leafcutter on the simulated dataset. We empirically demonstrated isoform-QTL pipelines outperform all others. Among all isoform-QTL pipelines, Cufflinks has the best performance in terms of power and false discovery rate. See <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing">slides</a> (preparing Manuscript).
+    description: We compared the performance of RSEM, Kallisto, Cufflinks, Salmon + FastQTL, eQTL, and Leafcutter on the simulated dataset. We empirically demonstrated isoform-QTL pipelines outperform all others. Among all isoform-QTL pipelines, Cufflinks has the best performance in terms of power and false discovery rate. See <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides </a> (preparing Manuscript).
 
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve M-estimation problem under the bootstrap and cross validation context. See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing">final summer research report</a>.
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context.See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
 ---
 
 If interested, please refer to <strong><a href="https://drive.google.com/file/d/1YCf2JEATVFkbi0evi93oLjf6YHmA1z-q/view?usp=sharing" target="_blank">Qiuran's CV</a></strong> or contact me for more details.
