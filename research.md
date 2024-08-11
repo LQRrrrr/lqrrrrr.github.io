@@ -7,7 +7,7 @@ items:
    image:
       src: /assets/img/work/sand.png
       alt: sand
-    description:  We investigated different serialized ways (e.g. Markdown, plain text, feature-wise, and visit-wise) for longitudinal tabular data from ADNI and HABS-HD as LLM inputs and finetuned Llama 3 and Llama 3.1 tailored to Alzheimer’s disease outcomes prediction. We are working on developing a statistical metric to construct an $\alpha$-\level confidence set to characterize the variable importance under the LLM context.
+    description:  We investigated different serialized ways (e.g. Markdown, plain text, feature-wise, and visit-wise) for longitudinal tabular data from ADNI and HABS-HD as LLM inputs and finetuned Llama 3 and Llama 3.1 tailored to Alzheimer’s disease outcomes prediction. We are working on developing a statistical metric to construct an alpha-level confidence set to characterize the variable importance under the LLM context.
 
   - title: Mediation Analysis with Mendelian Randomization and Efficient Multiple GWAS Integration
     image:
