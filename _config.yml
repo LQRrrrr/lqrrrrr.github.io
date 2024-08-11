@@ -9,8 +9,8 @@ name: Qiuran Lyu
 url: "https://lqrrrrr.github.io" # the base hostname & protocol for the site
 baseurl: "" # the subpath of the site
 og_image: /assets/img/profile-pic.jpg
-#github_repo:"https://github.com/LQRrrrr/qiuran-lyu.github.io.git"
-#google_analytics: "UA-121636368-3"
+github_repo:"https://github.com/LQRrrrr/lqrrrrr.github.io.git"
+google_analytics: "UA-121636368-3"
 
 header:
   pages:
@@ -21,7 +21,7 @@ header:
     - name: Post
     - name: Teaching
 footer:
-  show_powered_by: false
+  show_powered_by: true
   contact:
     - name: Email
       value: qiuran_lyu@berkeley.edu
