@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://qiuran-lyu.github.io" # the base hostname & protocol for the site
 baseurl: "" # the subpath of the site
 og_image: /assets/img/profile-pic.jpg
-github_repo:"https://github.com/LQRrrrr/qiuran-lyu.github.io.git"
+#github_repo:"https://github.com/LQRrrrr/qiuran-lyu.github.io.git"
 #google_analytics: "UA-121636368-3"
 
 header:
