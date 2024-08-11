@@ -1,7 +1,7 @@
 ---
 layout: Research
 title: Research
-slug: /work
+slug: /research
 items:
   - title: Causal Mediation Analysis with Mendelian Randomization and Summary Data
     image:
