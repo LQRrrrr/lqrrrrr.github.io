@@ -3,7 +3,7 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: Fine$-$tuning LLM for Alzheimer’s Disease Diagnosis and Progression Prediction
+  - title: Fine tuning LLM for Alzheimer’s Disease Diagnosis and Progression Prediction
    image:
       src: /assets/img/work/sand.png
       alt: sand
