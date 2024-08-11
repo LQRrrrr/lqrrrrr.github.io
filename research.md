@@ -13,7 +13,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: We used structural equations to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and Rao-blackwellization to eliminate the <strong>measurement error bias</strong>, <strong>the winner's curse</strong>, <strong>the loser's curse</strong>, and <strong>the imperfect IV selection issue</strong>. See <a href="https://arxiv.org/abs/2312.10563"> preprint </a>, links to <a href="https://github.com/LQRrrrr/MAGIC"> code </a> and <a href="https://github.com/LQRrrrr/MR.Rerand"> package </a>.
+    description: We used structural equations to construct the relationship between the mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and Rao-blackwellization to eliminate the <strong>measurement error bias</strong>, <strong>the winner's curse</strong>, <strong>the loser's curse</strong>, and <strong>the imperfect IV selection issue</strong>. See <a href="https://arxiv.org/abs/2312.10563"> preprint </a>, links to <a href="https://github.com/LQRrrrr/MAGIC"> code </a> and <a href="https://github.com/LQRrrrr/MR.Rerand"> package </a>.
 
   - title: On the Theoretical Investigation of Mediation Analysis with Mendelian Randomization and Summary Data
     image:
@@ -25,13 +25,13 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: sand
-    description: We compared the performance of RSEM, Kallisto, Cufflinks, Salmon + FastQTL, eQTL, and Leafcutter on the simulated dataset. We empirically demonstrated isoform-QTL pipelines outperform all others. Among all isoform-QTL pipelines, Cufflinks has the best performance in terms of power and false discovery rate. See <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides </a> (preparing Manuscript).
+    description: We compared the performance of RSEM, Kallisto, Cufflinks, Salmon + FastQTL, eQTL, and Leafcutter on the simulated dataset. We empirically demonstrated that isoform-QTL pipelines outperform all others. Among all isoform-QTL pipelines, Cufflinks has the best performance in terms of power and false discovery rate. See <a href="https://drive.google.com/file/d/1CQuQivzTD9LEZt5vPYFq9fZhVUDJVb_6/view?usp=sharing"> slides </a> (preparing Manuscript).
 
   - title: GMS training framework and WMMLP
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context.See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
+    description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context. See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
 ---
 
 If interested, please refer to <strong><a href="https://drive.google.com/file/d/1YCf2JEATVFkbi0evi93oLjf6YHmA1z-q/view?usp=sharing" target="_blank">Qiuran's CV</a></strong> or contact me for more details.
