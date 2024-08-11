@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Work
+title: Research
 slug: /work
 items:
   - title: Causal Mediation Analysis with Mendelian Randomization and Summary Data
@@ -26,6 +26,6 @@ items:
 ---
 
 
-If interested, please refer to <a href="https://drive.google.com/file/d/1xImYx9ljpaMWl9bEQZZYmt1qKhgmW40H/view?usp=sharing"> Qiuran's CV </a> or contact me for more details.
+If interested, please refer to <strong><a href="https://drive.google.com/file/d/1YCf2JEATVFkbi0evi93oLjf6YHmA1z-q/view?usp=sharing" target="_blank"> Qiuran's CV </a></strong> or contact me for more details.
 <br />
 <br />
