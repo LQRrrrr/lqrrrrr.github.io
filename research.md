@@ -13,7 +13,7 @@ items:
     image:
       src: /assets/img/work/water.png
       alt: water
-    description: We used structural equations to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and Rao-blackwellization to eliminate the **measurement error bias**, **the winner's curse**, **the loser's curse**, and **the imperfect IV selection issue**. See <a href="https://arxiv.org/abs/2312.10563">preprint</a>, links to <a href="https://github.com/LQRrrrr/MAGIC">code</a> and <a href="https://github.com/LQRrrrr/MR.Rerand">package</a>.
+    description: We used structural equations to construct the relationship between mediator, exposure, and outcome effect based on the causal diagram. A three-step procedure was designed for conducting mediation analysis with integrated multiple GWAS using joint rerandomization and Rao-blackwellization to eliminate the **measurement error bias**, **the winner's curse**, **the loser's curse**, and **the imperfect IV selection issue**. See <a href="https://arxiv.org/abs/2312.10563"> preprint </a>, links to <a href="https://github.com/LQRrrrr/MAGIC"> code </a> and <a href="https://github.com/LQRrrrr/MR.Rerand"> package </a>.
 
   - title: On the Theoretical Investigation of Mediation Analysis with Mendelian Randomization and Summary Data
     image:
