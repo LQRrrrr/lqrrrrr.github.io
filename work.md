@@ -1,5 +1,5 @@
 ---
-layout: Work
+layout: Research
 title: Research
 slug: /work
 items:
