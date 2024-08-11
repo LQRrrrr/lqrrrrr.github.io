@@ -19,7 +19,7 @@ header:
     - name: Research
     - name: Blog
     - name: Post
-
+    - name: Teaching
 footer:
   show_powered_by: false
   contact:
