@@ -9,7 +9,28 @@
 
 <url>
   <loc>https://lqrrrrr.github.io/</loc>
-  <lastmod>2024-08-11T03:58:06+00:00</lastmod>
+  <lastmod>2024-08-11T05:19:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://lqrrrrr.github.io/research</loc>
+  <lastmod>2024-08-11T05:19:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lqrrrrr.github.io/blog</loc>
+  <lastmod>2024-08-11T05:19:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lqrrrrr.github.io/post</loc>
+  <lastmod>2024-08-11T05:19:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://lqrrrrr.github.io/teaching</loc>
+  <lastmod>2024-08-11T05:19:42+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
