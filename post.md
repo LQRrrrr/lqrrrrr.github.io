@@ -4,7 +4,7 @@ title: Post
 slug: /post
 ---
 
-My undergraduate research work on investigating  <a href="https://drive.google.com/file/d/1g2LcU73fG4_i-zXrMPcKd1nUUTKHjs3l/view?usp=sharing">  impact of social network change on students' academic behavior </a> with Ordered Logit model for panel data.
+My undergraduate research work on investigating  <a href="https://drive.google.com/file/d/1g2LcU73fG4_i-zXrMPcKd1nUUTKHjs3l/view?usp=sharing">  impact of social network change on students' academic behavior </a> with Fixed-effects and Random-effects Ordered Logit model for panel data.
 
 Chinese Version of Multidimensional Scaling <a href="https://www.jianshu.com/p/39332c72828e">MDS</a> and its implementation with R.
 
