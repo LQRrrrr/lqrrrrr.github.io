@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Post
+title: Post & Cool Presentations
 slug: /post
 ---
 
@@ -11,3 +11,7 @@ Chinese Version of Multidimensional Scaling <a href="https://www.jianshu.com/p/3
 
 Chinese Version of Correspondence Analysis <a href="https://www.jianshu.com/p/8f1aa3770c61"> CA</a> and its implementation with R.
 
+In Mark's 2024 Fall course PH 240B Biostatistical Methods: Survival Analysis and Causality, I presented "Super Learning" with Michael and Yoyo! See <a href="https://drive.google.com/file/d/1RnQS5Dwp-a01JvFzR9a2cRy_-uTySo1I/view?usp=share_link">slides</a>!
+
+In Mark's 2024 Fall course PH 243A Targeted Learning, I presented "Mediation analysis with Time-Varying Mediators and Exposures" myself! See 
+<a href="https://drive.google.com/file/d/1g_grPHUDciLUHKUAfZjZDVKZI55-x5rm/view?usp=sharing">slides</a>!
