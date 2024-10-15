@@ -8,7 +8,6 @@ My undergraduate research work on investigating  <a href="https://drive.google.c
 
 Chinese Version of Multidimensional Scaling <a href="https://www.jianshu.com/p/39332c72828e">MDS</a> and its implementation with R.
 
-
 Chinese Version of Correspondence Analysis <a href="https://www.jianshu.com/p/8f1aa3770c61"> CA</a> and its implementation with R.
 
 In Mark's 2024 Fall course PH 240B Biostatistical Methods: Survival Analysis and Causality, I presented "Super Learning" with Michael and Yoyo! See <a href="https://drive.google.com/file/d/1RnQS5Dwp-a01JvFzR9a2cRy_-uTySo1I/view?usp=share_link">slides</a>!
@@ -16,4 +15,4 @@ In Mark's 2024 Fall course PH 240B Biostatistical Methods: Survival Analysis and
 In Mark's 2024 Fall course PH 243A Targeted Learning, I presented "Mediation analysis with Time-Varying Mediators and Exposures" myself! See 
 <a href="https://drive.google.com/file/d/1g_grPHUDciLUHKUAfZjZDVKZI55-x5rm/view?usp=sharing">slides</a>!
 
-I am responsible for scribing the cool proof of transforming the original KM-formulation of optimal transport problem to the biconjugate convex pairs. See our amazing Optimal Transport reading group <a href="https://kaiwen-hou-khou.github.io/OTMLE/">website</a> and <a href="https://kaiwen-hou-khou.github.io/OTMLE/notes/double_convexification.pdf">slides</a>!
+I am responsible for scribing the cool proof of transforming the original KM-formulation of optimal transport problem to the biconjugate convex pairs (strong duality and double convexification trick). See our amazing Optimal Transport reading group <a href="https://kaiwen-hou-khou.github.io/OTMLE/">website</a> and <a href="https://kaiwen-hou-khou.github.io/OTMLE/notes/double_convexification.pdf">notes</a>!
