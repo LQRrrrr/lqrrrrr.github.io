@@ -11,3 +11,6 @@ slug: /teaching
 
 **Spring 2024:** PH142 Introduction to probability and statistics in Biology and Public Health  
 **Instructor:** Professor Mi-Suk Kang Dufour
+
+**Fall 2024:** PH142 Introduction to probability and statistics in Biology and Public Health  
+**Instructor:** Professor Alan Hubbard and Dr. Tomer Altman
