@@ -16,4 +16,4 @@ In Mark's 2024 Fall course PH 240B Biostatistical Methods: Survival Analysis and
 In Mark's 2024 Fall course PH 243A Targeted Learning, I presented "Mediation analysis with Time-Varying Mediators and Exposures" myself! See 
 <a href="https://drive.google.com/file/d/1g_grPHUDciLUHKUAfZjZDVKZI55-x5rm/view?usp=sharing">slides</a>!
 
-I am responsible for scribing the cool proof of transforming the original KM-formulation of optimal transport problem to the biconjugate convex pairs. See our amazing Optimal Transport reading group <a href="https://kaiwen-hou-khou.github.io/OTMLE/">website</a> and  <a href="https://kaiwen-hou-khou.github.io/OTMLE/notes/double_convexification.pdf>notes</a>!
+I am responsible for scribing the cool proof of transforming the original KM-formulation of optimal transport problem to the biconjugate convex pairs. See our amazing Optimal Transport reading group <a href="https://kaiwen-hou-khou.github.io/OTMLE/">website</a> and <a href="https://kaiwen-hou-khou.github.io/OTMLE/notes/double_convexification.pdf">slides</a>!
