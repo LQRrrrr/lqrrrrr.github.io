@@ -26,11 +26,11 @@ PBHLTH W252A Introduction to Causal Inference for Public Health Professionals **
 
 PBHLTH 243A Targeted Learning **Instructor:** Professor Mark van der Laan (TMLE could do anything except RDD.)
 
-STAT C245B Biostatistical Methods: Survival Analysis and Causality **Instructor:** Professor Mark van der Laan (I always mix this course with Targeted Learnin.)
+STAT C245B Biostatistical Methods: Survival Analysis and Causality **Instructor:** Professor Mark van der Laan (I always mix this course with Targeted Learning.)
 
 STAT 260 Topics in Probability and Statistics **Instructor:** Professor Nikita Zhivotovskiy (Everyone should learn Mini-max theory and RKHS once.)
 
-**Super helpful reading groups or Seminar I have attended at UC Berkeley:**
+**Super helpful reading groups or Seminars I have attended at UC Berkeley:**
 
 **Fall 2023:**  
 
