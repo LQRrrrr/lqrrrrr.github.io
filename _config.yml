@@ -19,7 +19,7 @@ header:
     - name: Blog
     - name: Post
     - name: Teaching
-    - name: Courses
+    - name: Journey
 footer:
   show_powered_by: true
   contact:
