@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Statistic Journey
+title: Statistical Journey
 slug: /journey
 ---
 
