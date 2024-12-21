@@ -17,4 +17,4 @@ In Mark's 2024 Fall course PH 243A Targeted Learning, I presented "Mediation ana
 
 I am responsible for scribing the cool proof of transforming the original KM-formulation of optimal transport problem to the biconjugate convex pairs (strong duality and double convexification trick). See our amazing Optimal Transport reading group <a href="https://kaiwen-hou-khou.github.io/OTMLE/">website</a> and <a href="https://kaiwen-hou-khou.github.io/OTMLE/notes/double_convexification.pdf">notes</a>!
 
-In Nikita's 2024 Fall course STAT 260(210C) Topics in statistics and probability, I chose Benign overfitting in Ridge Regression for reading and study. See <a href="https://drive.google.com/file/d/1S6_1Eg4cX8nWB-t22cjmLxODZr58Zg8m/view?usp=share_link">slides</a>.
+In Nikita's 2024 Fall course STAT 260(210C) Topics in statistics and probability, I chose Benign overfitting in Ridge Regression for reading and study. See <a href="https://drive.google.com/file/d/1S6_1Eg4cX8nWB-t22cjmLxODZr58Zg8m/view?usp=share_link">slides</a> and <a href="https://drive.google.com/file/d/1droJHf25MrgzSLRYMkltsZk1PXh6Fed1/view?usp=sharing">note</a>.
