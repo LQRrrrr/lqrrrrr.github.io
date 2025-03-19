@@ -14,6 +14,6 @@ My research interests lie in Causal Inference, Health equity, LLM inference, Com
 </p>
 
 <p>
-You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/1c0j4nmT0c2UXJNdpfuQpTWRw8LQ6OdgZ/view?usp=drive_link" target="_blank"> Qiuran's CV </a></strong> (updated on Nov, 2024).
+You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/1Mm80pxV7X6m_L8mUo-9Cf2aaev3w381z/view?usp=sharing" target="_blank"> Qiuran's CV </a></strong> (updated on Mar, 2025).
 </p>
 
