@@ -31,6 +31,7 @@ STAT C245B Biostatistical Methods: Survival Analysis and Causality **Instructor:
 STAT 260 Topics in Probability and Statistics (Theoretical Statistics C) **Instructor:** Professor Nikita Zhivotovskiy A+ (Everyone should learn Mini-max theory and RKHS once.)
 
 **Spring 2025:**  
+
 STAT 260 Topics in Probability and Statistics (Advance in Causal Inference) **Instructor:** Professor Avi Feller
 
 **Super helpful reading groups or Seminars I have attended at UC Berkeley:**
