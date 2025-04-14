@@ -3,7 +3,8 @@ layout: work
 title: Research
 slug: /research
 items:
- - title: Mediation Analysis with Mendelian Randomization and Efficient Multiple GWAS Integration
+
+  - title: Mediation Analysis with Mendelian Randomization and Efficient Multiple GWAS Integration
     image:
       src: /assets/img/work/water.png
       alt: water
