@@ -34,6 +34,6 @@ items:
     description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context. See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
 ---
 
-If interested, please refer to <strong><a href="https://drive.google.com/file/d/1YCf2JEATVFkbi0evi93oLjf6YHmA1z-q/view?usp=sharing" target="_blank">Qiuran's CV</a></strong> or contact me for more details.
+If interested, please refer to <strong><a href="https://drive.google.com/file/d/14lfZb2gs07HBZ0rZgvlOOajTkZU57icl/view?usp=sharing" target="_blank">Qiuran's CV</a></strong> or contact me for more details.
 <br />
 <br />
