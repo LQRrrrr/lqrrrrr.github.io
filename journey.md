@@ -28,7 +28,10 @@ PBHLTH 243A Targeted Learning **Instructor:** Professor Mark van der Laan (TMLE 
 
 STAT C245B Biostatistical Methods: Survival Analysis and Causality **Instructor:** Professor Mark van der Laan A+ (I always mix this course with Targeted Learning.)
 
-STAT 260 Topics in Probability and Statistics **Instructor:** Professor Nikita Zhivotovskiy A+ (Everyone should learn Mini-max theory and RKHS once.)
+STAT 260 Topics in Probability and Statistics (Theoretical Statistics C) **Instructor:** Professor Nikita Zhivotovskiy A+ (Everyone should learn Mini-max theory and RKHS once.)
+
+**Spring 2024:**  
+STAT 260 Topics in Probability and Statistics (Advance in Causal Inference) **Instructor:** Professor Avi Feller
 
 **Super helpful reading groups or Seminars I have attended at UC Berkeley:**
 
