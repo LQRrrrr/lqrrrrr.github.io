@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Post & Cool Presentations
+title: Post
 slug: /post
 ---
 
