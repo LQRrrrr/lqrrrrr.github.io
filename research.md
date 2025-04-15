@@ -11,18 +11,18 @@ items:
     
   - title: (Ongoing work) Generative AI Assisted Response Adaptive Factorial Designs
     image:
-      src: /assets/img/work/water.png
+      src: /assets/img/work/sand.png
       alt: water
     description: This project proposes a generative AI-assisted, response-adaptive factorial design framework to identify the most effective combinations of health intervention components. By adaptively learning from participant responses and optimizing experimental allocation, the method efficiently identifies impactful strategies while protecting vulnerable populations through in-silico experimentation. The design enables personalized, ethical, and data-efficient evaluation of interventions in resource-constrained settings. See <a href="https://drive.google.com/file/d/1plIBjZnj3FZfBzsz-aFgXsG13H42UUNp/view?usp=sharing"> poster</a>.
   
   - title: (Ongoing work) AI-driven generative digital twins cohort to emulate communication and behavioral dynamics in real-world ADRD patients
     image:
-      src: /assets/img/work/sand.png
+      src: /assets/img/work/water.png
       alt: sand
     description: We built a platform for digital twins trained by video capturing different symptoms, in terms of linguistic, emotional, and behavioral nuances that typify ADRD. Our aims are (1) mimicking the real-world interaction between caregivers and ADRD patients; (2) providing better caregiver training; and (3) doing experimentation on created digital twins. We also aim to validate the created digital twins to provide trustworthy results. See the current <a href="https://mr-thomas-chat.onrender.com/"> Platform</a>.  
 
    
-  - title: An Enhanced Language Model for Predicting Alzheimer's Disease Pathology.
+  - title: An Enhanced Language Model for Predicting Alzheimer's Disease Pathology
     image:
       src: /assets/img/work/sand.png
       alt: sand
