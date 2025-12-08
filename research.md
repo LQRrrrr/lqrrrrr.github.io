@@ -5,20 +5,20 @@ slug: /research
 items:
   - title: (Ongoing work) Nonfaithful Query in Lyrics Retrieval
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
+      src: /assets/img/work/water.png
+      alt: water
     description: This project is of my personal interest and I am exploring on it.
 
   - title: (Ongoing work) Heterogeneity-aware fintuning
     image:
-      src: /assets/img/work/water.png
-      alt: water
+      src: /assets/img/work/sand.png
+      alt: sand
     description: Heterogeneity-aware adapter. 
   
   - title: (Ongoing work) Generative AI Assisted Response Adaptive Factorial Designs
     image:
-      src: /assets/img/work/sand.png
-      alt: sand
+      src: /assets/img/work/water.png
+      alt: water
     description: This project proposes a generative AI-assisted, response-adaptive factorial design framework to identify the most effective combinations of health intervention components. By adaptively learning from participant responses and optimizing experimental allocation, the method efficiently identifies impactful strategies while protecting vulnerable populations through in-silico experimentation. The design enables personalized, ethical, and data-efficient evaluation of interventions in resource-constrained settings. See <a href="https://drive.google.com/file/d/1plIBjZnj3FZfBzsz-aFgXsG13H42UUNp/view?usp=sharing"> poster</a>.
   
   - title: TERRA: Transformer-Enabled Recursive R-learner
