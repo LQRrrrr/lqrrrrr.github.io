@@ -20,6 +20,12 @@ items:
       src: /assets/img/work/sand.png
       alt: sand
     description: This project proposes a generative AI-assisted, response-adaptive factorial design framework to identify the most effective combinations of health intervention components. By adaptively learning from participant responses and optimizing experimental allocation, the method efficiently identifies impactful strategies while protecting vulnerable populations through in-silico experimentation. The design enables personalized, ethical, and data-efficient evaluation of interventions in resource-constrained settings. See <a href="https://drive.google.com/file/d/1plIBjZnj3FZfBzsz-aFgXsG13H42UUNp/view?usp=sharing"> poster</a>.
+  
+  - title: TERRA: Transformer-Enabled Recursive R-learner
+    image:
+      src: /assets/img/work/sand.png
+      alt: sand
+    description: TERRA is a novel framework for estimating longitudinal heterogeneous treatment effects (HTEs) by combining the causal structure of structural nested mean models (SNMMs) with the representational power of Transformers. Many real-world settings—clinical interventions, digital experimentation, and marketing attribution—feature repeated treatments over time, where effects exhibit carryover, time-varying heterogeneity, and post-treatment bias. Standard HTE methods are not designed for these challenges; TERRA directly addresses them.  See <a href="https://arxiv.org/abs/2510.22407"> preprint</a>. 
     
   - title: LLM Feature Selection
     image:
@@ -58,6 +64,6 @@ items:
     description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context. See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
 ---
 
-If interested, please refer to <strong><a href="https://drive.google.com/file/d/14lfZb2gs07HBZ0rZgvlOOajTkZU57icl/view?usp=sharing" target="_blank">Qiuran's CV</a></strong> or contact me for more details.
+If interested, please refer to <strong><a href="https://drive.google.com/file/d/17VTlE5F_jJNRcEGEik39StLDkjvHAmco/view?usp=sharing">Qiuran's CV</a></strong> or contact me for more details.
 <br />
 <br />
