@@ -25,7 +25,7 @@ items:
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: TERRA is a novel framework for estimating longitudinal heterogeneous treatment effects (HTEs) by combining the causal structure of structural nested mean models (SNMMs) with the representational power of Transformers. Many real-world settings—clinical interventions, digital experimentation, and marketing attribution—feature repeated treatments over time, where effects exhibit carryover, time-varying heterogeneity, and post-treatment bias. Standard HTE methods are not designed for these challenges; TERRA directly addresses them.  
+    description: 
     
   - title: LLM Feature Selection
     image:
