@@ -21,11 +21,11 @@ items:
       alt: water
     description: This project proposes a generative AI-assisted, response-adaptive factorial design framework to identify the most effective combinations of health intervention components. By adaptively learning from participant responses and optimizing experimental allocation, the method efficiently identifies impactful strategies while protecting vulnerable populations through in-silico experimentation. The design enables personalized, ethical, and data-efficient evaluation of interventions in resource-constrained settings. See <a href="https://drive.google.com/file/d/1plIBjZnj3FZfBzsz-aFgXsG13H42UUNp/view?usp=sharing"> poster</a>.
   
-  - title: TERRA: Transformer–Enabled Recursive R-learner
+  - title: TERRA Transformer–Enabled Recursive R-learner
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: 
+    description: TERRA is a novel framework for estimating longitudinal heterogeneous treatment effects (HTEs) by combining the causal structure of structural nested mean models (SNMMs) with the representational power of Transformers. Many real-world settings—clinical interventions, digital experimentation, and marketing attribution—feature repeated treatments over time, where effects exhibit carryover, time-varying heterogeneity, and post-treatment bias. Standard HTE methods are not designed for these challenges; TERRA directly addresses them.  
     
   - title: LLM Feature Selection
     image:
