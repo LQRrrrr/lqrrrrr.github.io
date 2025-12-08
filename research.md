@@ -21,6 +21,11 @@ items:
       alt: water
     description: This project proposes a generative AI-assisted, response-adaptive factorial design framework to identify the most effective combinations of health intervention components. By adaptively learning from participant responses and optimizing experimental allocation, the method efficiently identifies impactful strategies while protecting vulnerable populations through in-silico experimentation. The design enables personalized, ethical, and data-efficient evaluation of interventions in resource-constrained settings. See <a href="https://drive.google.com/file/d/1plIBjZnj3FZfBzsz-aFgXsG13H42UUNp/view?usp=sharing"> poster</a>.
   
+  - title: LLM Feature Selection
+    image:
+      src: /assets/img/work/water.png
+      alt: water
+    description: We are interested in selecting variable groups from serialized (semi-)structural input because of data availability and interpretability. We partition the prompt into predefined groups (e.g., demographics, genetics, MRI features), each with a learnable scaling parameter (0–1). Under sparsity-inducing regularization (L1 or entropy), unimportant features are replaced by special tokens (⟨PAD⟩), ensuring the model focuses on clinically impactful data while preserving predictive fidelity for AD outcomes. We do two-layer smoothing, one from combinatorial search of selection indicator to Bernoulli sampling, another using gradient estimator to approximate the discrete sampling gradient to enable stochastic gradient search.   
     
   - title: LLM Feature Selection
     image:
