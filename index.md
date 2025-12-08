@@ -14,6 +14,6 @@ My research focuses on developing multimodal large language models tailored for 
 </p>
 
 <p>
-You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/1Ves2Vy_SY-j7CSPds6Dkpx3gAVVIKor5/view?usp=sharing" target="_blank"> Qiuran's CV </a></strong> (updated on Oct, 2025).
+You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/17VTlE5F_jJNRcEGEik39StLDkjvHAmco/view?usp=sharing"> Qiuran's CV </a></strong> (updated on Dec, 2025).
 </p>
 
