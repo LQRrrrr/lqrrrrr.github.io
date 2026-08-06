@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-My name is Qiuran (Rita) Lyu. I am a third-year UC Berkeley Biostatistics Division PhD candidate (expected to graduate in 2028). Before coming to Berkeley, I completed my undergraduate major in Statistics and minor in Fintech from Renmin University of China Statistics Department and Gaoling School of Artificial Intelligence. 
+My name is Qiuran (Rita) Lyu. I am a third-year UC Berkeley Biostatistics PhD candidate (expected to graduate in 2028). Before coming to Berkeley, I completed my undergraduate major in Statistics and minor in Fintech from Renmin University of China Statistics Department and Gaoling School of Artificial Intelligence. 
 </p>
 <p>
 My research sits at the intersection of statistics and machine learning, with a focus on building reliable, efficient, and interpretable AI systems for high-impact applications.
