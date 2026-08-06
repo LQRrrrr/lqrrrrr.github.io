@@ -14,6 +14,10 @@ I develop statistical and machine-learning methods for adaptive experimentation,
 </p>
 
 <p>
+I did summer internship at Pinterest as Machine Learning Research Intern in curation ML team on Aug, 2026, where I gain experience in recommendation system.
+</p>
+
+<p>
 You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/1gYkYg-M2hl4wY1wHkQHMfP9AeYZhB7H4/view?usp=sharing"> Qiuran's CV </a></strong> (updated on Aug, 2026).
 </p>
 
