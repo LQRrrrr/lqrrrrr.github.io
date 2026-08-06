@@ -6,14 +6,14 @@ profile_picture:
 ---
 
 <p>
-My name is Qiuran (Rita) Lyu. I am a third-year UC Berkeley Biostatistics Division PhD student (expected to graduate in 2027). I am extremely fortunate to be advised by <strong><a href="https://sites.google.com/berkeley.edu/jingshenwang/" target="_blank">Dr. Jingshen Wang</a></strong>. Before coming to Berkeley, I completed my undergraduate major in Statistics and minor in Fintech from Renmin University of China Statistics Department and Gaoling School of Artificial Intelligence. In 2022, I was fortunate to be a visiting student at <strong><a href="http://jsb.ucla.edu" target="_blank">JSB lab</a></strong> in UCLA and advised by <strong><a href="http://jsb.ucla.edu/about-jingyi-jessica-li" target="_blank">Dr. Jingyi Jessica Li</a></strong> and <strong><a href="https://stat.oregonstate.edu/directory/xinzhou-shawn-ge" target="_blank">Dr. Xinzou Shawn Ge</a></strong> and a visiting student at <strong><a href="https://sites.harvard.edu/junliu/" target="_blank">Dr. Jun S. Liu</a></strong>'s lab at Harvard University. From then on, I developed a great interest in the junction of Statistics and Artificial Intelligence for Biology & Healthcare tasks.
+My name is Qiuran (Rita) Lyu. I am a third-year UC Berkeley Biostatistics Division PhD candidate (expected to graduate in 2028). Before coming to Berkeley, I completed my undergraduate major in Statistics and minor in Fintech from Renmin University of China Statistics Department and Gaoling School of Artificial Intelligence. 
 </p>
 <p>
-My research focuses on developing multimodal large language models tailored for Alzheimer's disease diagnosis, employing AI-assisted experimental designs to optimize healthcare interventions, and creating digital twins to simulate patient-specific disease trajectories. Additionally, I am developing rigorous statistical methods to validate and interpret LLM outputs, ensuring trustworthy and interpretable AI-driven results in health science.
-
+My research sits at the intersection of statistics and machine learning, with a focus on building reliable, efficient, and interpretable AI systems for high-impact applications.
+I develop statistical and machine-learning methods for adaptive experimentation, causal inference, large language models, recommendation systems, and healthcare applications. My work combines methodological foundations with practical model development in real-world settings. Some recent research topics include causal transformer, LLM evaluation, recommendation system, etc.
 </p>
 
 <p>
-You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/17VTlE5F_jJNRcEGEik39StLDkjvHAmco/view?usp=sharing"> Qiuran's CV </a></strong> (updated on Dec, 2025).
+You can see and download my Curriculum Vitae through <strong><a href="https://drive.google.com/file/d/1gYkYg-M2hl4wY1wHkQHMfP9AeYZhB7H4/view?usp=sharing"> Qiuran's CV </a></strong> (updated on Aug, 2026).
 </p>
 
