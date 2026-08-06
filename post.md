@@ -20,3 +20,5 @@ I am responsible for scribing the cool proof of transforming the original KM-for
 In Nikita's 2024 Fall course STAT 260(210C) Topics in statistics and probability, I chose Benign overfitting in Ridge Regression for reading and study. See <a href="https://drive.google.com/file/d/1S6_1Eg4cX8nWB-t22cjmLxODZr58Zg8m/view">slides</a> and <a href="https://drive.google.com/file/d/1droJHf25MrgzSLRYMkltsZk1PXh6Fed1/view?usp=sharing">notes</a>!
 
 In Avi's 2025 Spring STAT 260 (Advance in Causal Inference), I presented Mark's paper Causal inference for social network data with Andy Kim. See <a href="https://drive.google.com/file/d/1GLF6uNmpBVG1J676Qt69fVLLYAM4CsU6/view?usp=sharing">slides</a>! 
+
+In Nov 2025, I passed my qualifying exam with research presentation on Mendelian Randomization and Factorial Design. 
