@@ -18,3 +18,7 @@ slug: /teaching
 **Spring 2024:** PHC240C  Biostatistical Methods: Computational Statistics with Applications in Biology and Medicine 
 
 **Instructor:** Professor Jingshen Wang
+
+**Fall 2026:** PH142 Introduction to probability and statistics in Biology and Public Health  
+
+**Instructor:** Professor Xiudi Li
