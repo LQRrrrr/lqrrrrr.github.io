@@ -3,17 +3,11 @@ layout: work
 title: Research
 slug: /research
 items:
-  - title: (Ongoing work) Nonfaithful Query in Lyrics Retrieval
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: This project is of my personal interest and I am exploring on it.
-
-  - title: (Ongoing work) Heterogeneity-aware fintuning
+  - title: Budgeted Human Calibration for Modeling and Evaluation with Multiple AI Judges
     image:
       src: /assets/img/work/sand.png
       alt: sand
-    description: Heterogeneity-aware adapter. 
+    description: This project is about how to combine multile AI judges results for evaluation.  See <a href="https://arxiv.org/pdf/2607.16239"> preprint </a>.
   
   - title: (Ongoing work) Generative AI Assisted Response Adaptive Factorial Designs
     image:
@@ -64,6 +58,6 @@ items:
     description: We constructed the weighted multiplicative MLP (WMMLP) in PyTorch based on Taylor expansion of M estimators and used neural networks to solve the M-estimation problem under the bootstrap and cross-validation context. See <a href="https://drive.google.com/file/d/1hN_bLWVfeioHlpYY2CtSDO2_Hv24f_6w/view?usp=sharing"> final summer research report</a>.
 ---
 
-If interested, please refer to <strong><a href="https://drive.google.com/file/d/17VTlE5F_jJNRcEGEik39StLDkjvHAmco/view?usp=sharing">Qiuran's CV</a></strong> or contact me for more details.
+If interested, please refer to <strong><a href="https://drive.google.com/file/d/1gYkYg-M2hl4wY1wHkQHMfP9AeYZhB7H4/view?usp=sharing">Qiuran's CV</a></strong> or contact me for more details.
 <br />
 <br />
