@@ -29,13 +29,6 @@ items:
       alt: water
     description: We are interested in selecting variable groups from serialized (semi-)structural input because of data availability and interpretability. We partition the prompt into predefined groups (e.g., demographics, genetics, MRI features), each with a learnable scaling parameter (0–1). Under sparsity-inducing regularization (L1 or entropy), unimportant features are replaced by special tokens (⟨PAD⟩), ensuring the model focuses on clinically impactful data while preserving predictive fidelity for AD outcomes. We do two-layer smoothing, one from combinatorial search of selection indicator to Bernoulli sampling, another using gradient estimator to approximate the discrete sampling gradient to enable stochastic gradient search. See <a href="https://drive.google.com/file/d/1c0URrLS1bG3CEeeHPeeT_mlk1Kl5uCzL/view?usp=sharing"> preprint</a>.
    
-  - title: An Enhanced Language Model for Predicting Amyloid Beta PET, Tau PET, and Cognitive Decline in Alzheimer’s Disease.
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: We investigated different serialized ways (e.g. Markdown, plain text, feature-wise, and visit-wise) for longitudinal tabular data from ADNI, HABS-HD, and POINTER as LLM inputs and used LORA to finetune Llama 3 and Llama 3.1 tailored to Alzheimer’s disease pathology outcomes prediction. Our developed model is referred to as ADLLM and outperforms existing ML models in external A4 cohorts. See <a href="https://drive.google.com/file/d/1op2DfnIvFVvcp97THm4z6mDJiMP4MGxx/view?usp=sharing"> preprint</a>.
-
-
 
   - title: Enhanced language models for predicting and understanding HIV care disengagement: a case study in Tanzania.
     image:
