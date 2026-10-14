@@ -14,7 +14,7 @@ I develop statistical and machine-learning methods for adaptive experimentation,
 </p>
 
 <p>
-I did internship at Ant Group as Research Intern from Dec, 2025 to Apr, 2026 and summer internship at Pinterest as Machine Learning Research Intern in curation ML team from May, 2026 to August, 2026, where I gain experience in recommendation system.
+I did internship at Ant Group as Research Intern from Dec, 2025 to Apr, 2026 and summer internship at Pinterest as Machine Learning Research Intern in curation ML team from May, 2026 to August, 2026, where I gain experience in recommendation system. I will join Two Sigma as Quantitative Researcher Intern in the upcoming summer (hopefully!!!). 
 </p>
 
 <p>
