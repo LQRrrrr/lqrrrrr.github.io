@@ -138,6 +138,14 @@
 
 .follow-links > .social-link {
   flex: 0 50%;
+
+  &.social-link-full-width {
+    flex: 0 100%;
+
+    a {
+      white-space: nowrap;
+    }
+  }
 }
 
 .powered-by {

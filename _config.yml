@@ -30,14 +30,12 @@ footer:
       value: LQRweixin1101
       link: "#"
   follow:
-    - name: Steam
-      link: https://steamcommunity.com/profiles/76561198292446299/
-      username: "@larisiji"
     - name: LinkedIn
       link: https://www.linkedin.com/in/qiuran-lyu-492a90207/
     - name: GitHub
       link: http://github.com/LQRrrrr
     - name: GoogleScholar
+      full_width: true
       value: Google Scholar
       link: "https://scholar.google.com/citations?user=P52tmI8AAAAJ&hl=zh-CN"
 
