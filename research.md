@@ -35,7 +35,6 @@ items:
       alt: sand
     description: We investigated different serialized ways (e.g. Markdown, plain text, feature-wise, and visit-wise) for longitudinal tabular data from ADNI, HABS-HD, and POINTER as LLM inputs and used LORA to finetune Llama 3 and Llama 3.1 tailored to Alzheimer’s disease pathology outcomes prediction. Our developed model is referred to as ADLLM and outperforms existing ML models in external A4 cohorts. See <a href="https://drive.google.com/file/d/1op2DfnIvFVvcp97THm4z6mDJiMP4MGxx/view?usp=sharing"> preprint</a>.
 
-
   - title: Enhanced language models for predicting and understanding HIV care disengagement: a case study in Tanzania.
     image:
       src: /assets/img/work/water.png
