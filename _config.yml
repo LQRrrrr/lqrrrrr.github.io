@@ -37,6 +37,9 @@ footer:
       link: https://www.linkedin.com/in/qiuran-lyu-492a90207/
     - name: GitHub
       link: http://github.com/LQRrrrr
+    - name: GoogleScholar
+      value: Google Scholar
+      link: "https://scholar.google.com/citations?user=P52tmI8AAAAJ&hl=zh-CN"
 
 # Build settings
 markdown: kramdown
