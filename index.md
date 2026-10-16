@@ -15,5 +15,5 @@ My research lies at the intersection of statistics and machine learning. I am br
 I was a Research Intern at Ant Group from December 2025 to April 2026 and a Machine Learning Research Intern on Pinterest's Curation ML team from May to August 2026, where I worked on large-scale recommender systems. I will join Two Sigma as a Quantitative Researcher Intern in summer 2027, which I am very excited about!
 </p>
 <p>
-You can view and download my Curriculum Vitae <strong><a href="https://drive.google.com/file/d/1gYkYg-M2hl4wY1wHkQHMfP9AeYZhB7H4/view?usp=sharing">here</a></strong> (updated August 2026).
+You can view and download my Curriculum Vitae <strong><a href="https://drive.google.com/file/d/112CtwHLMsLHSNfGeS6jBGf1uD7hNyhqt/view?usp=sharing">here</a></strong> (updated August 2026).
 </p>
