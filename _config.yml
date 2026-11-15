@@ -1,0 +1,62 @@
+# Site settings
+title: Qiuran Lyu Homepage
+description: >- # this means to ignore newlines until "baseurl:"
+  Bay is a minimal Jekyll Theme.
+name: Qiuran Lyu
+
+url: "https://lqrrrrr.github.io" # the base hostname & protocol for the site
+baseurl: "" # the subpath of the site
+og_image: /assets/img/profile-pic.jpg
+github_repo: "https://github.com/LQRrrrr/lqrrrrr.github.io.git"
+google_analytics: "UA-121636368-3"
+
+# Header and footer settings
+header:
+  pages:
+    - name: Home
+      slug: /
+    - name: Research
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: qiuran_lyu@berkeley.edu
+      link: mailto:qiuran_lyu@berkeley.edu
+    - name: WeChat
+      value: LQRweixin1101
+      link: "#"
+  follow:
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/qiuran-lyu-492a90207/
+    - name: GitHub
+      link: http://github.com/LQRrrrr
+    - name: GoogleScholar
+      full_width: true
+      value: Google Scholar
+      link: "https://scholar.google.com/citations?user=P52tmI8AAAAJ&hl=zh-CN"
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Used for defeating caching
+version: 1
